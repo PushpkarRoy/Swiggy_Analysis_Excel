@@ -16,7 +16,7 @@ The dashboard provides a quick view of **revenue performance, customer behavior,
 - Track monthly, weekly, and daily sales trends  
 - Understand customer ratings and average order value  
 - Compare Veg vs Non-Veg sales contribution  
-- Identify top-performing cities and states  
+- Identify top-performing cities and states    
 - Enable interactive analysis using slicers  
 
 ---
