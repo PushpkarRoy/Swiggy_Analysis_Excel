@@ -18,7 +18,7 @@ The dashboard provides a quick view of **revenue performance, customer behavior,
 - Compare Veg vs Non-Veg sales contribution      
 - Identify top-performing cities and states    
 - Enable interactive analysis using slicers  
-
+  
 ---
 
 ## 📊 Key KPIs    
