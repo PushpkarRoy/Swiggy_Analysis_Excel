@@ -21,7 +21,7 @@ The dashboard provides a quick view of **revenue performance, customer behavior,
   
 ---
    
-## 📊 Key KPIs    
+## 📊 Key KPIs       
 | Metric | Value |
 |------|------|
 | **Total Revenue** | ₹ 53.01M |
