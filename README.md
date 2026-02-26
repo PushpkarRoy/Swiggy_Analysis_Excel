@@ -17,7 +17,7 @@ The dashboard provides a quick view of **revenue performance, customer behavior,
 - Understand customer ratings and average order value  
 - Compare Veg vs Non-Veg sales contribution      
 - Identify top-performing cities and states    
-- Enable interactive analysis using slicers  
+- Enable interactive analysis using slicers    
   
 ---
    
