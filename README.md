@@ -20,7 +20,7 @@ The dashboard provides a quick view of **revenue performance, customer behavior,
 - Enable interactive analysis using slicers    
   
 ---
-   
+     
 ## 📊 Key KPIs       
 | Metric | Value |
 |------|------|
