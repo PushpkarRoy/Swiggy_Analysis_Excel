@@ -19,7 +19,7 @@ The dashboard provides a quick view of **revenue performance, customer behavior,
 - Identify top-performing cities and states    
 - Enable interactive analysis using slicers    
   
----
+---    
      
 ## 📊 Key KPIs       
 | Metric | Value |
