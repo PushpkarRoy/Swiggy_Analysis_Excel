@@ -11,7 +11,7 @@ The dashboard provides a quick view of **revenue performance, customer behavior,
 
 ---    
 
-## 🎯 Key Objectives
+## 🎯 Key Objectives  
 - Analyze total revenue and order performance    
 - Track monthly, weekly, and daily sales trends    
 - Understand customer ratings and average order value      
