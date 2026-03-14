@@ -10,7 +10,7 @@ The objective is to transform raw data into **actionable business insights** usi
 The dashboard provides a quick view of **revenue performance, customer behavior, ratings, food preferences, city-wise demand, and state-wise sales trends**.
 
 ---    
-  
+   
 ## 🎯 Key Objectives  
 - Analyze total revenue and order performance    
 - Track monthly, weekly, and daily sales trends    
