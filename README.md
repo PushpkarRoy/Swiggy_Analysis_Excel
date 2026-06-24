@@ -48,7 +48,7 @@ The dashboard provides a quick view of **revenue performance, customer behavior,
 ### 🔹 Top 5 Cities by Sales
 1. **Bengaluru** – ₹ 5.46M  
 2. **Lucknow** – ₹ 3.12M  
-3. **Hyderabad** – ₹ 3.02M  
+3. **Hyderabad** – ₹ 3.02M   
 4. **Mumbai** – ₹ 3.02M  
 5. **New Delhi** – ₹ 2.83M  
 
